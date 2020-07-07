@@ -11,7 +11,7 @@ $user = new User();
     $userForm = $_POST['username'];
     $passForm = $_POST['password'];
 
-    if($userForm=='Litzy' && $passForm=='holi'){
+    if($userForm=='litzy' && $passForm=='holi'){
         include_once 'vistas/home.php';
     }else{
         //echo "nombre de usuario y/o password incorrecto";
