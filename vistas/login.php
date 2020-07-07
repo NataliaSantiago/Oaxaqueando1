@@ -13,10 +13,6 @@
     <form action="" method="POST">
        <?php
 
-            if(isset($errorLogin)){
-                echo $errorLogin;
-            }
-
        ?>
         <h2>Iniciar sesión</h2>
         <p>Nombre de usuario: <br>
