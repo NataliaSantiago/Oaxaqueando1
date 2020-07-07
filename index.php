@@ -17,7 +17,7 @@ $user = new User();
     $userForm = $_POST['username'];
     $passForm = $_POST['password'];
 
-    if($userForm=='Litzy'&& $passForm=='holi')){
+    if($userForm=='Litzy' && $passForm=='holi'){
         /*//echo "usuario validado";
         $userSession->setCurrentUser($userForm);
         $user->setUser($userForm);*/
