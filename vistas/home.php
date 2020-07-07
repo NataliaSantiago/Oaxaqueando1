@@ -17,9 +17,9 @@
         </ul>
     </div>
 
-    <section>
-        <h1>Bienvenido Litzy </h1>
-        
+    <section class ="center">
+        <h1>Bienvenido a Oaxaqueando</h1>
+        <img src="sitio.png">
     </section>
     
 </body>
