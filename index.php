@@ -28,10 +28,10 @@ $user = new User();
         include_once 'vistas/login.php';
     }
 
-}else{
+/*}else{
     //echo "Login";
     include_once 'vistas/login.php';
 }
-
+*/
 
 ?>
