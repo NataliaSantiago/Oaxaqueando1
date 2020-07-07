@@ -7,7 +7,7 @@
     <title>Home</title>
     <link rel="stylesheet" href="main.css">
 </head>
-<body>
+<body background = "3409778.jpg">
     <div id="menu">
         <ul>
             <li>Home</li>
