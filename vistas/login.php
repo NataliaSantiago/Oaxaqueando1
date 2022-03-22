@@ -10,7 +10,7 @@
       <a-entity scale=".2 .2 .2"> 
         <a-entity gltf-model="cemitagood.glb" scale="3 3 3" crossOrigin="anonymous">
         </a-entity>
-        <a-marker-camera preset='hiro'></a-marker-camera>
+        
         </a-scene>
       </body>
     </html> 
